@@ -27,3 +27,8 @@
       flex-basis: 50%
     }  
 }
+
+.mt-4{
+    width: 150px;
+    height: 150px;
+}
